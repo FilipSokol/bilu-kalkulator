@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/bilu-kalkulator/static/css/main.106baaae.chunk.css",
+    "main.js": "/bilu-kalkulator/static/js/main.bbe840f2.chunk.js",
+    "main.js.map": "/bilu-kalkulator/static/js/main.bbe840f2.chunk.js.map",
+    "runtime-main.js": "/bilu-kalkulator/static/js/runtime-main.25efd13d.js",
+    "runtime-main.js.map": "/bilu-kalkulator/static/js/runtime-main.25efd13d.js.map",
+    "static/js/2.0952f44d.chunk.js": "/bilu-kalkulator/static/js/2.0952f44d.chunk.js",
+    "static/js/2.0952f44d.chunk.js.map": "/bilu-kalkulator/static/js/2.0952f44d.chunk.js.map",
+    "static/js/3.45ab11f2.chunk.js": "/bilu-kalkulator/static/js/3.45ab11f2.chunk.js",
+    "static/js/3.45ab11f2.chunk.js.map": "/bilu-kalkulator/static/js/3.45ab11f2.chunk.js.map",
+    "index.html": "/bilu-kalkulator/index.html",
+    "static/css/main.106baaae.chunk.css.map": "/bilu-kalkulator/static/css/main.106baaae.chunk.css.map",
+    "static/js/2.0952f44d.chunk.js.LICENSE.txt": "/bilu-kalkulator/static/js/2.0952f44d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.25efd13d.js",
+    "static/js/2.0952f44d.chunk.js",
+    "static/css/main.106baaae.chunk.css",
+    "static/js/main.bbe840f2.chunk.js"
+  ]
+}
